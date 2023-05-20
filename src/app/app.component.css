@@ -1,0 +1,24 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+mat-toolbar{
+    display: flex;
+    justify-content: space-between;
+}
+
+app-login-component{
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+app-footer-component{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 29vh;
+}

@@ -1,0 +1,26 @@
+
+h1{
+    text-align: center;
+    margin-top: 50px;
+    font-size: 40px;
+}
+
+.example-form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 40vh;
+    margin-top: 50px;
+  }
+  
+  .example-full-width {
+    width: 100%;
+  }
+
+  .botones{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+  }
